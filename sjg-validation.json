@@ -1,0 +1,8 @@
+{
+"name":"yuzuppy#0050",
+"ticker":"YUZUP",
+"discordId":"747675139768057927",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/yuzuppy/Yuzuppy-BCG/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/yuzuppy/Yuzuppy-BCG/main/sjg-validation.json"
+}
